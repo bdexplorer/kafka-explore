@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="kafka-code:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05742ed9-ead3-419d-8e58-5a13472c38c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Program File\maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1y1COtrUyPNUhQ569bbQuxS43oO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example.consumer.rebalance" />
+      <recent name="example.producer.interceptor" />
+      <recent name="example.producer.partitioner" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="example.consumer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Main.listTopic">
+    <configuration name="KafkaConsumerDemo.testPatternConsumer1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.consumer" />
+      <option name="MAIN_CLASS_NAME" value="example.consumer.KafkaConsumerDemo" />
+      <option name="METHOD_NAME" value="testPatternConsumer1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaProducerDemo.test100MsgSend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.producer" />
+      <option name="MAIN_CLASS_NAME" value="example.producer.KafkaProducerDemo" />
+      <option name="METHOD_NAME" value="test100MsgSend" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.createTopic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.topic" />
+      <option name="MAIN_CLASS_NAME" value="example.topic.Main" />
+      <option name="METHOD_NAME" value="createTopic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.listTopic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.topic" />
+      <option name="MAIN_CLASS_NAME" value="example.topic.Main" />
+      <option name="METHOD_NAME" value="listTopic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.testCommitSync (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kafka-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.consumer.interceptor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.consumer.interceptor" />
+      <option name="MAIN_CLASS_NAME" value="example.consumer.interceptor.Main" />
+      <option name="METHOD_NAME" value="testCommitSync" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Main.listTopic" />
+        <item itemvalue="JUnit.Main.createTopic" />
+        <item itemvalue="JUnit.KafkaProducerDemo.test100MsgSend" />
+        <item itemvalue="JUnit.Main.testCommitSync (1)" />
+        <item itemvalue="JUnit.KafkaConsumerDemo.testPatternConsumer1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05742ed9-ead3-419d-8e58-5a13472c38c7" name="Default Changelist" comment="" />
+      <created>1631409678227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631409678227</updated>
+      <workItem from="1631409681127" duration="10377000" />
+      <workItem from="1631441271784" duration="5593000" />
+      <workItem from="1631541499329" duration="9578000" />
+      <workItem from="1632216739323" duration="9411000" />
+      <workItem from="1632316676879" duration="649000" />
+      <workItem from="1632351644595" duration="6613000" />
+      <workItem from="1632776882134" duration="1871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="902" y="306" key="#com.intellij.ide.util.MemberChooser" timestamp="1632351698090">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="902" y="306" key="#com.intellij.ide.util.MemberChooser/0.0.2194.1194@0.0.2194.1194" timestamp="1632351698090" />
+    <state x="865" y="411" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1631410820463">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="865" y="411" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1631410820463" />
+    <state x="717" y="275" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1631436368786">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="717" y="275" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1631436368786" />
+    <state x="827" y="343" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631439028820">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="827" y="343" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1631439028820" />
+    <state x="877" y="323" key="FileChooserDialogImpl" timestamp="1632776967665">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="877" y="323" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1632776967665" />
+    <state width="2149" height="352" key="GridCell.Tab.0.bottom" timestamp="1632356881065">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2149" height="352" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1632356881065" />
+    <state width="2149" height="352" key="GridCell.Tab.0.center" timestamp="1632356881065">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2149" height="352" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1632356881065" />
+    <state width="2149" height="352" key="GridCell.Tab.0.left" timestamp="1632356881065">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2149" height="352" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1632356881065" />
+    <state width="2149" height="352" key="GridCell.Tab.0.right" timestamp="1632356881065">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2149" height="352" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1632356881065" />
+    <state width="2149" height="408" key="GridCell.Tab.1.bottom" timestamp="1631633388899">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2149" height="408" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1631633388899" />
+    <state width="2149" height="408" key="GridCell.Tab.1.center" timestamp="1631633388899">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2149" height="408" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1631633388899" />
+    <state width="2149" height="408" key="GridCell.Tab.1.left" timestamp="1631633388898">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2149" height="408" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1631633388898" />
+    <state width="2149" height="408" key="GridCell.Tab.1.right" timestamp="1631633388899">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2149" height="408" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1631633388899" />
+    <state x="627" y="252" key="Maven.ArtifactSearchDialog" timestamp="1631436579833">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="627" y="252" key="Maven.ArtifactSearchDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1631436579833" />
+    <state x="615" y="203" key="SettingsEditor" timestamp="1631441258378">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="615" y="203" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1631441258378" />
+    <state x="754" y="279" key="run.anything.popup" timestamp="1632352925735">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="754" y="279" key="run.anything.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1632352925735" />
+    <state x="1307" y="267" width="672" height="678" key="search.everywhere.popup" timestamp="1632776909131">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="1307" y="267" width="672" height="678" key="search.everywhere.popup/0.0.2194.1194@0.0.2194.1194" timestamp="1632776909131" />
+  </component>
+</project>
